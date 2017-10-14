@@ -1,0 +1,5 @@
+C:\Users\Byron\Dropbox\2017\Segundo Ciclo\Analisis de Sistemas II\Clase 10\BankAccountNS\BankAccountNS\bin\Debug\BankAccountNS.exe.config
+C:\Users\Byron\Dropbox\2017\Segundo Ciclo\Analisis de Sistemas II\Clase 10\BankAccountNS\BankAccountNS\bin\Debug\BankAccountNS.exe
+C:\Users\Byron\Dropbox\2017\Segundo Ciclo\Analisis de Sistemas II\Clase 10\BankAccountNS\BankAccountNS\bin\Debug\BankAccountNS.pdb
+C:\Users\Byron\Dropbox\2017\Segundo Ciclo\Analisis de Sistemas II\Clase 10\BankAccountNS\BankAccountNS\obj\Debug\BankAccountNS.exe
+C:\Users\Byron\Dropbox\2017\Segundo Ciclo\Analisis de Sistemas II\Clase 10\BankAccountNS\BankAccountNS\obj\Debug\BankAccountNS.pdb
